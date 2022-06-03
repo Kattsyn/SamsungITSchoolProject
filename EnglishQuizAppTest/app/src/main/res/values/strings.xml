@@ -1,0 +1,15 @@
+<resources>
+    <string name="appName">ENG64</string>
+    <string name="back">Назад</string>
+    <string name="btn_next">Далее</string>
+    <string name="next_btn_text">ДАЛЕЕ</string>
+    <string name="level_succeeded"><b>Уровень\nпройден!</b></string>
+    <string name="level_failed"><b>Уровень\nне пройден</b></string>
+    <string name="lesson_completed"><b>Уровень пройден! ✅</b></string>
+    <string name="lesson_closed"><b>Уровень закрыт 🔒</b></string>
+    <string name="lesson_not_completed"><b>Уровень не пройден ❌</b></string>
+
+    <string name="lesson1">Animals I</string>
+    <string name="lesson2">Pronouns I</string>
+    <string name="str_result">РЕЗУЛЬТАТ</string>
+</resources>

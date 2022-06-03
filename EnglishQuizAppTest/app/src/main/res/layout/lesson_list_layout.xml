@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:padding="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="@drawable/style_lesson_item">
+
+
+    <ImageView
+        android:id="@+id/lesson_bg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="250dp"
+        android:src="@drawable/test_background_of_items1" />
+
+    <TextView
+        android:id="@+id/lesson_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/arbutus"
+        android:text="LessonName"
+        android:textColor="@color/black95"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/lesson_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="@string/lesson_completed"
+        android:textColor="@color/btnCorrect"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

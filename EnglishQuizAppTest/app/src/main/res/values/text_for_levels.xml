@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lesson1ex1cr">Hare</string>
+    <string name="lesson1ex1wr1">Monkey</string>
+    <string name="lesson1ex1wr2">Frog</string>
+    <string name="lesson1ex1wr3">Boar</string>
+
+    <string name="lesson1ex2cr">Bird</string>
+    <string name="lesson1ex2wr1">Hedgehog</string>
+    <string name="lesson1ex2wr2">Rat</string>
+    <string name="lesson1ex2wr3">Pig</string>
+
+    <string name="lesson1ex3cr">Dog</string>
+    <string name="lesson1ex3wr1">Bear</string>
+    <string name="lesson1ex3wr2">Elephant</string>
+    <string name="lesson1ex3wr3">Mouse</string>
+
+    <string name="lesson1ex4cr">Elephant</string>
+    <string name="lesson1ex4wr1">Frog</string>
+    <string name="lesson1ex4wr2">Cat</string>
+    <string name="lesson1ex4wr3">Giraffe</string>
+
+    <string name="lesson1ex5cr">Frog</string>
+    <string name="lesson1ex5wr1">Hedgehog</string>
+    <string name="lesson1ex5wr2">Monkey</string>
+    <string name="lesson1ex5wr3">Boar</string>
+
+    <string name="lesson1ex6cr">Cheetah</string>
+    <string name="lesson1ex6wr1">Pig</string>
+    <string name="lesson1ex6wr2">Elephant</string>
+    <string name="lesson1ex6wr3">Boar</string>
+
+    <string name="lesson1ex7cr">Monkey</string>
+    <string name="lesson1ex7wr1">Frog</string>
+    <string name="lesson1ex7wr2">Bird</string>
+    <string name="lesson1ex7wr3">Boar</string>
+
+    <string name="lesson1ex8cr">Giraffe</string>
+    <string name="lesson1ex8wr1">Girafe</string>
+    <string name="lesson1ex8wr2">Geerafe</string>
+    <string name="lesson1ex8wr3">Gerafe</string>
+
+    <string name="lesson1ex9cr">Hedgehog</string>
+    <string name="lesson1ex9wr1">Hechhog</string>
+    <string name="lesson1ex9wr2">Hegehog</string>
+    <string name="lesson1ex9wr3">Hedgehag</string>
+
+    <string name="lesson1ex10cr">Bear</string>
+    <string name="lesson1ex10wr1">Beer</string>
+    <string name="lesson1ex10wr2">Boar</string>
+    <string name="lesson1ex10wr3">Bird</string>
+
+
+</resources>
